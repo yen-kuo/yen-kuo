@@ -62,7 +62,7 @@ Right now, I'm interning at **Chang Gung Medical Technology Co., Ltd.**, helping
 
 ## 🔗 Let's connect!
 - 📫 Email: [dora.kuo980100@gmaul.com]
-- 💻 GitHub: [github.com/yourgithub]  
+- 💻 GitHub: [https://github.com/yen-kuo]  
 
 ---
 
